@@ -1,5 +1,5 @@
 # bulk-airdrop-polygon
-Polygon Airdrop for NFT distribution
+Polygon Airdrop for NFT distribution reference video tutorials
 
 https://youtu.be/SF-XOwWIwRo
 https://youtu.be/N6z1Hm8Aths
